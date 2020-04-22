@@ -1,7 +1,7 @@
 # don't forget to add: require 'pry'
 
 def generate_star_date
-  (round(100000) + 400000) / 10.0
+  (round(100000) + 400000) / 10.0lea
 end
 
 
